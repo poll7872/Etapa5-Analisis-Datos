@@ -1,0 +1,16 @@
+{
+  "version": "v2.3.0-RC1",
+  "summary": {
+    "title": "Modelado de Amenazas",
+    "owner": "Edward Ojeda España",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
